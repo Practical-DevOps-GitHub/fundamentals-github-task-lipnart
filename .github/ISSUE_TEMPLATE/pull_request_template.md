@@ -1,5 +1,5 @@
 ---
-name: pull_request_template.md
+name: pull_request_template
 about: Suggest an idea for this project
 title: pull_request
 labels: ''
